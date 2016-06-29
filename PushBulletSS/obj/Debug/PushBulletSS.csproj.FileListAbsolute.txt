@@ -1,0 +1,8 @@
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\bin\Debug\PushBulletSS.dll
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\bin\Debug\PushBulletSS.pdb
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\bin\Debug\SimplSharpHelperInterface.dll
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\obj\Debug\PushBulletSS.dll
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\obj\Debug\PushBulletSS.pdb
+C:\Zenith\Crestron\Masters Gold\PushBulletSS\PushBulletSS\bin\Debug\Newtonsoft.Json.Compact.dll
